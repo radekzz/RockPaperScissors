@@ -1,6 +1,6 @@
 //
 //  ContentView.swift
-//  SwiftExample
+//  RockPaperScissors
 //
 //  Created by Radek Mezulanik on 02.03.2022.
 //

@@ -1,13 +1,13 @@
 //
-//  SwiftExampleUITestsLaunchTests.swift
-//  SwiftExampleUITests
+//  RockPaperScissorsUITestsLaunchTests.swift
+//  RockPaperScissorsUITests
 //
 //  Created by Radek Mezulanik on 02.03.2022.
 //
 
 import XCTest
 
-class SwiftExampleUITestsLaunchTests: XCTestCase {
+class RockPaperScissorsUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true

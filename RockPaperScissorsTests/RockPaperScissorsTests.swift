@@ -1,14 +1,14 @@
 //
-//  SwiftExampleTests.swift
-//  SwiftExampleTests
+//  RockPaperScissorsTests.swift
+//  RockPaperScissorsTests
 //
 //  Created by Radek Mezulanik on 02.03.2022.
 //
 
 import XCTest
-@testable import SwiftExample
+@testable import RockPaperScissors
 
-class SwiftExampleTests: XCTestCase {
+class RockPaperScissorsTests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.
