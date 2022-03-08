@@ -99,6 +99,15 @@ struct ContentView: View {
                 }).padding(20)
             }.padding(.top, 20)
             Spacer()
+            Button(action:{
+                playerChoice = 2
+                cpuChoice = 2
+                playerScore = 0
+                cpuScore = 0
+                result = ""
+            }, label:{
+                Text("Reset")
+            }).padding(20)
         }
         
         
